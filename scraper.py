@@ -19,12 +19,10 @@ seen_links = set()
 try:
     session = requests.Session()
     
-    # 1. Získání cookies pro obelstění chyby 500
     print("Krok 1: Získávám cookies z hlavní stránky...")
     session.get('https://www.archiweb.cz/', headers=headers, timeout=15)
     time.sleep(2) 
     
-    # 2. Stažení samotných projektů
     print("Krok 2: Stahuji projekty...")
     response = session.get(url, headers=headers, timeout=15)
     response.encoding = 'utf-8'
@@ -56,29 +54,36 @@ try:
             author_spans = project.find_all('span')
             authors = ", ".join([span.get_text(strip=True) for span in author_spans if span.get_text(strip=True)])
             
-            # --- ZÍSKÁNÍ OBRÁZKU Z POZADÍ ---
+            # --- AGRESIVNÍ ZÍSKÁNÍ OBRÁZKU Z POZADÍ ---
             image_url = ""
             project_box = project.find('div', class_='project_box')
             if project_box and project_box.has_attr('style'):
                 style = project_box['style']
-                # Regulární výraz najde text mezi url( a )
-                match = re.search(r'url\((.*?)\)', style)
+                # Bezpečnější regex pro odchycení URL adresy
+                match = re.search(r'url\(\s*[\'"]?(.*?)[\'"]?\s*\)', style)
                 if match:
-                    # Očištění o případná zpětná lomítka, která Archiweb do kódu vkládá
-                    image_url = match.group(1).replace('\\/', '/').replace('\\.', '.').strip("'\"")
+                    # Odstraníme všechny zpětná lomítka a vyčistíme string
+                    image_url = match.group(1).replace('\\/', '/').replace('\\.', '.').replace('\\', '').strip()
             
             if full_url not in seen_links:
                 seen_links.add(full_url)
                 count += 1
                 
-                # Příprava popisu článku i s vloženým obrázkem
+                # Příprava popisu
                 description_html = ""
-                if image_url:
-                    description_html += f'<img src="{image_url}" /><br><br>'
-                description_html += f'<strong>Architekti / Ateliér:</strong> {authors}'
+                enclosure_tag = ""
+                media_tag = ""
                 
-                # Enclosure tag (metadata o obrázku pro některé čtečky)
-                enclosure_tag = f'<enclosure url="{image_url}" type="image/jpeg" length="0" />' if image_url else ""
+                if image_url:
+                    # Způsob 1: Klasický obrázek v textu
+                    description_html += f'<img src="{image_url}" alt="Náhled projektu" /><br><br>'
+                    
+                    # Způsob 2 a 3: Metadata pro moderní čtečky
+                    clean_img = image_url.replace('&', '&amp;')
+                    enclosure_tag = f'<enclosure url="{clean_img}" type="image/jpeg" length="1024" />'
+                    media_tag = f'<media:content url="{clean_img}" medium="image" />'
+                
+                description_html += f'<strong>Architekti / Ateliér:</strong> {authors}'
                 
                 rss_items += f"""
         <item>
@@ -87,6 +92,7 @@ try:
             <guid>{full_url}</guid>
             <description><![CDATA[{description_html}]]></description>
             {enclosure_tag}
+            {media_tag}
         </item>"""
                 
                 if count >= 25:
@@ -97,7 +103,7 @@ try:
 except Exception as e:
     print(f"Kritická chyba: {e}")
 
-# Sestavení finálního XML (přidána podpora pro multimédia v hlavičce)
+# Sestavení finálního XML s podporou Media RSS namespace
 rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
