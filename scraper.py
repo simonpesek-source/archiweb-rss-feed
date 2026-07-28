@@ -27,8 +27,6 @@ try:
     response = session.get(url, headers=headers, timeout=15)
     response.encoding = 'utf-8'
     
-    print(f"Stavový kód odpovědi: {response.status_code}")
-    
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         projects = soup.find_all('div', class_='buildings')
@@ -54,36 +52,27 @@ try:
             author_spans = project.find_all('span')
             authors = ", ".join([span.get_text(strip=True) for span in author_spans if span.get_text(strip=True)])
             
-            # --- AGRESIVNÍ ZÍSKÁNÍ OBRÁZKU Z POZADÍ ---
+            # Získání obrázku z pozadí
             image_url = ""
             project_box = project.find('div', class_='project_box')
             if project_box and project_box.has_attr('style'):
                 style = project_box['style']
-                # Bezpečnější regex pro odchycení URL adresy
                 match = re.search(r'url\(\s*[\'"]?(.*?)[\'"]?\s*\)', style)
                 if match:
-                    # Odstraníme všechny zpětná lomítka a vyčistíme string
                     image_url = match.group(1).replace('\\/', '/').replace('\\.', '.').replace('\\', '').strip()
             
             if full_url not in seen_links:
                 seen_links.add(full_url)
-                count += 1
                 
-                # Příprava popisu
-                description_html = ""
+                # Příprava popisu BEZ vloženého obrázku (obrázek bude jen v enclosure) a BEZ perexu
+                description_html = f'<p><strong>Architekti / Ateliér:</strong> {authors}</p>'
+                
                 enclosure_tag = ""
                 media_tag = ""
-                
                 if image_url:
-                    # Způsob 1: Klasický obrázek v textu
-                    description_html += f'<img src="{image_url}" alt="Náhled projektu" /><br><br>'
-                    
-                    # Způsob 2 a 3: Metadata pro moderní čtečky
                     clean_img = image_url.replace('&', '&amp;')
                     enclosure_tag = f'<enclosure url="{clean_img}" type="image/jpeg" length="1024" />'
                     media_tag = f'<media:content url="{clean_img}" medium="image" />'
-                
-                description_html += f'<strong>Architekti / Ateliér:</strong> {authors}'
                 
                 rss_items += f"""
         <item>
@@ -95,7 +84,8 @@ try:
             {media_tag}
         </item>"""
                 
-                if count >= 25:
+                count += 1
+                if count >= 25: # Vráceno na 25 nejnovějších projektů
                     break
     else:
         print("Chyba serveru. Status:", response.status_code)
@@ -103,7 +93,6 @@ try:
 except Exception as e:
     print(f"Kritická chyba: {e}")
 
-# Sestavení finálního XML s podporou Media RSS namespace
 rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
