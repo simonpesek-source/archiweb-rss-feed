@@ -1,100 +1,115 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Tue, 28 Jul 2026 15:11:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 15:13:46 GMT</lastBuildDate>
   
         <item>
             <title><![CDATA[Black House]]></title>
             <link>https://www.archiweb.cz/b/black-house-1</link>
             <guid>https://www.archiweb.cz/b/black-house-1</guid>
-            <description><![CDATA[Architekti / Ateliér: MACHAR & TEICHMAN]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9867.jpg-285x240.jpg?20260728090220" /><br><br><strong>Architekti / Ateliér:</strong> MACHAR & TEICHMAN]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9867.jpg-285x240.jpg?20260728090220" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Rodinný dům v Čakovicích]]></title>
             <link>https://www.archiweb.cz/b/rodinny-dum-v-cakovicich</link>
             <guid>https://www.archiweb.cz/b/rodinny-dum-v-cakovicich</guid>
-            <description><![CDATA[Architekti / Ateliér: edit!]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9873_1.jpg-285x240.jpg?20260727123253" /><br><br><strong>Architekti / Ateliér:</strong> edit!]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9873_1.jpg-285x240.jpg?20260727123253" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Dům PS-50]]></title>
             <link>https://www.archiweb.cz/b/dum-ps-50</link>
             <guid>https://www.archiweb.cz/b/dum-ps-50</guid>
-            <description><![CDATA[Architekti / Ateliér: Langarita-Navarro arquitectos]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9870.jpg-285x240.jpg?20260727094920" /><br><br><strong>Architekti / Ateliér:</strong> Langarita-Navarro arquitectos]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9870.jpg-285x240.jpg?20260727094920" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Rodinný dům Chodouň]]></title>
             <link>https://www.archiweb.cz/b/rodinny-dum-chodoun</link>
             <guid>https://www.archiweb.cz/b/rodinny-dum-chodoun</guid>
-            <description><![CDATA[Architekti / Ateliér: 0,5 Studio]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9868_3.jpg-285x240.jpg?20260727100528" /><br><br><strong>Architekti / Ateliér:</strong> 0,5 Studio]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9868_3.jpg-285x240.jpg?20260727100528" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Sídlo stavební firmy MDK Gradevinar]]></title>
             <link>https://www.archiweb.cz/b/sidlo-stavebni-firmy-mdk-gradevinar</link>
             <guid>https://www.archiweb.cz/b/sidlo-stavebni-firmy-mdk-gradevinar</guid>
-            <description><![CDATA[Architekti / Ateliér: Mikelić Vreš Arhitekti]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9866.jpg-285x240.jpg?20260725170054" /><br><br><strong>Architekti / Ateliér:</strong> Mikelić Vreš Arhitekti]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9866.jpg-285x240.jpg?20260725170054" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Košická]]></title>
             <link>https://www.archiweb.cz/b/kosicka-maly-byt-ktery-se-chova-velkoryse</link>
             <guid>https://www.archiweb.cz/b/kosicka-maly-byt-ktery-se-chova-velkoryse</guid>
-            <description><![CDATA[Architekti / Ateliér: Architéka]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9865_1.jpg-285x240.jpg?20260725092802" /><br><br><strong>Architekti / Ateliér:</strong> Architéka]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9865_1.jpg-285x240.jpg?20260725092802" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Jezero Residence]]></title>
             <link>https://www.archiweb.cz/b/jezero-residence</link>
             <guid>https://www.archiweb.cz/b/jezero-residence</guid>
-            <description><![CDATA[Architekti / Ateliér: Enota]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9864.jpg-285x240.jpg?20260724080725" /><br><br><strong>Architekti / Ateliér:</strong> Enota]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9864.jpg-285x240.jpg?20260724080725" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Rodinný dům Nová Ves]]></title>
             <link>https://www.archiweb.cz/b/rodinny-dum-nova-ves</link>
             <guid>https://www.archiweb.cz/b/rodinny-dum-nova-ves</guid>
-            <description><![CDATA[Architekti / Ateliér: luni architekti s.r.o.]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9857.jpg-285x240.jpg?20260723080904" /><br><br><strong>Architekti / Ateliér:</strong> luni architekti s.r.o.]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9857.jpg-285x240.jpg?20260723080904" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Kostel a pastorační centrum papeže Jana XXIII.]]></title>
             <link>https://www.archiweb.cz/b/kostel-a-pastoracni-centrum-papeze-jana-xiii</link>
             <guid>https://www.archiweb.cz/b/kostel-a-pastoracni-centrum-papeze-jana-xiii</guid>
-            <description><![CDATA[Architekti / Ateliér: Mario Botta]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9863.jpg-285x240.jpg?20260723164035" /><br><br><strong>Architekti / Ateliér:</strong> Mario Botta]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9863.jpg-285x240.jpg?20260723164035" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Šumavská chalupa]]></title>
             <link>https://www.archiweb.cz/b/sumavska-chalupa</link>
             <guid>https://www.archiweb.cz/b/sumavska-chalupa</guid>
-            <description><![CDATA[Architekti / Ateliér: Ateliér VAS]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9862.jpg-285x240.jpg?20260721075058" /><br><br><strong>Architekti / Ateliér:</strong> Ateliér VAS]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9862.jpg-285x240.jpg?20260721075058" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Rodinný dům Dobřichovice]]></title>
             <link>https://www.archiweb.cz/b/rodinny-dum-dobrichovice-exa</link>
             <guid>https://www.archiweb.cz/b/rodinny-dum-dobrichovice-exa</guid>
-            <description><![CDATA[Architekti / Ateliér: Expert Architects, s.r.o.]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9843_11.jpg-285x240.jpg?20260720090917" /><br><br><strong>Architekti / Ateliér:</strong> Expert Architects, s.r.o.]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9843_11.jpg-285x240.jpg?20260720090917" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Dům V]]></title>
             <link>https://www.archiweb.cz/b/dum-v-1</link>
             <guid>https://www.archiweb.cz/b/dum-v-1</guid>
-            <description><![CDATA[Architekti / Ateliér: Tham & Videgård Arkitekter]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9861.jpg-285x240.jpg?20260719111106" /><br><br><strong>Architekti / Ateliér:</strong> Tham & Videgård Arkitekter]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9861.jpg-285x240.jpg?20260719111106" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Vila Normanni Apulie]]></title>
             <link>https://www.archiweb.cz/b/vila-normanni-apulie</link>
             <guid>https://www.archiweb.cz/b/vila-normanni-apulie</guid>
-            <description><![CDATA[Architekti / Ateliér: Urban Interior]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9860_8.jpg-285x240.jpg?20260717133133" /><br><br><strong>Architekti / Ateliér:</strong> Urban Interior]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9860_8.jpg-285x240.jpg?20260717133133" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Veranda: Architektura velkorysosti]]></title>
             <link>https://www.archiweb.cz/b/veranda-architektura-velkorysosti-americky-pavilon-na-19-architektonickem-bienale-v-benatkach</link>
             <guid>https://www.archiweb.cz/b/veranda-architektura-velkorysosti-americky-pavilon-na-19-architektonickem-bienale-v-benatkach</guid>
-            <description><![CDATA[Architekti / Ateliér: Peter MacKeith, John Folan]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9859.jpg-285x240.jpg?20260717114949" /><br><br><strong>Architekti / Ateliér:</strong> Peter MacKeith, John Folan]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9859.jpg-285x240.jpg?20260717114949" type="image/jpeg" length="0" />
         </item>
         <item>
             <title><![CDATA[Byt pre veľkú rodinu]]></title>
             <link>https://www.archiweb.cz/b/byt-pre-ve-ku-rodinu</link>
             <guid>https://www.archiweb.cz/b/byt-pre-ve-ku-rodinu</guid>
-            <description><![CDATA[Architekti / Ateliér: NACONI Interiéry]]></description>
+            <description><![CDATA[<img src="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9853.jpg-285x240.jpg?20260717101337" /><br><br><strong>Architekti / Ateliér:</strong> NACONI Interiéry]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9853.jpg-285x240.jpg?20260717101337" type="image/jpeg" length="0" />
         </item>
 </channel>
 </rss>
