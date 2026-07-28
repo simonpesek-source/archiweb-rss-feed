@@ -1,14 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import time
 
 url = 'https://www.archiweb.cz/p'
+
+# Jednodušší hlavičky, aby se s nimi server Archiwebu popasoval
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-    'Accept-Language': 'cs,sk;q=0.9,en;q=0.8',
-    'Referer': 'https://www.archiweb.cz/',
-    'Connection': 'keep-alive'
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'cs-CZ,cs;q=0.9,en;q=0.8'
 }
 
 rss_items = ""
@@ -17,40 +18,51 @@ seen_links = set()
 
 try:
     session = requests.Session()
+    
+    # Krok 1: Návštěva domovské stránky pro získání přístupových cookies (Nette session)
+    print("Krok 1: Získávám cookies z hlavní stránky...")
+    session.get('https://www.archiweb.cz/', headers=headers, timeout=15)
+    time.sleep(2) # Dáme serveru 2 vteřiny, abychom nevypadali jako spamovací bot
+    
+    # Krok 2: Samotné stažení projektů
+    print("Krok 2: Stahuji projekty...")
     response = session.get(url, headers=headers, timeout=15)
     response.encoding = 'utf-8'
     
-    # Pro jistotu vypíšeme stavový kód serveru
     print(f"Stavový kód odpovědi: {response.status_code}")
     
-    soup = BeautifulSoup(response.text, 'html.parser')
-    
-    # Hledáme absolutně všechny odkazy na stránce
-    all_links = soup.find_all('a')
-    
-    for link_tag in all_links:
-        href = link_tag.get('href', '')
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Zajímají nás jen odkazy na budovy (začínají na /b/ a nejsou to jen prázdné cesty)
-        if href.startswith('/b/') and len(href) > 4:
-            full_url = 'https://www.archiweb.cz' + href
-            
-            # Uvnitř odkazu hledáme nadpis
-            title_tag = link_tag.find('h3')
-            if not title_tag:
+        # Hledáme bloky s třídou 'buildings'
+        projects = soup.find_all('div', class_='buildings')
+        
+        for project in projects:
+            link_tag = project.find('a')
+            if not link_tag:
                 continue
                 
+            href = link_tag.get('href', '')
+            if href.startswith('/'):
+                full_url = 'https://www.archiweb.cz' + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
+                continue
+                
+            title_tag = project.find('h3')
+            if not title_tag:
+                continue
             title = title_tag.get_text(strip=True)
             
-            # Hledáme autory
-            author_spans = link_tag.find_all('span')
+            author_spans = project.find_all('span')
             authors = ", ".join([span.get_text(strip=True) for span in author_spans if span.get_text(strip=True)])
             
             if full_url not in seen_links:
                 seen_links.add(full_url)
                 count += 1
                 
-                # Zabalení do CDATA pro stoprocentní jistotu, že speciální znaky nerozbijí XML
+                # Obaleno do CDATA, aby jakékoliv speciální znaky v textu nerozbily XML
                 rss_items += f"""
         <item>
             <title><![CDATA[{title}]]></title>
@@ -61,13 +73,8 @@ try:
                 
                 if count >= 25:
                     break
-                    
-    print(f"Úspěšně zpracováno {count} projektů.")
-    
-    # Diagnostika: Pokud se nic nestáhlo, vypíšeme, co server vrátil
-    if count == 0:
-        print("POZOR: Nenašly se žádné články! Tady je ukázka toho, co server vrátil:")
-        print(response.text[:1500])
+    else:
+        print("Server stále vrací chybový kód.")
 
 except Exception as e:
     print(f"Kritická chyba: {e}")
@@ -86,3 +93,5 @@ rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 
 with open('feed.xml', 'w', encoding='utf-8') as f:
     f.write(rss_feed)
+
+print(f"HOTOVO: Zpracováno {count} projektů.")
