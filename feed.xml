@@ -4,15 +4,23 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Wed, 29 Jul 2026 07:14:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 15:37:47 GMT</lastBuildDate>
   
         <item>
             <title><![CDATA[Rodinný dům v Mníšku pod Brdy]]></title>
             <link>https://www.archiweb.cz/b/rodinny-dum-v-mnisku-pod-brdy-molo</link>
             <guid>https://www.archiweb.cz/b/rodinny-dum-v-mnisku-pod-brdy-molo</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MOLO ARCHITEKTI</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9874_17.jpg-285x240.jpg?20260728091604" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9874_17.jpg-285x240.jpg?20260728091604" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9874_17.jpg-285x240.jpg?20260729094050" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9874_17.jpg-285x240.jpg?20260729094050" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Sídlo firmy Jet Investment]]></title>
+            <link>https://www.archiweb.cz/b/sidlo-firmy-jet-investment</link>
+            <guid>https://www.archiweb.cz/b/sidlo-firmy-jet-investment</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> RAW</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9871_6.jpg-285x240.jpg?20260729123541" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9871_6.jpg-285x240.jpg?20260729123541" medium="image" />
         </item>
         <item>
             <title><![CDATA[Rezidence Starokošířská]]></title>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Tham & Videgård Arkitekter</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9861.jpg-285x240.jpg?20260719111106" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9861.jpg-285x240.jpg?20260719111106" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Vila Normanni Apulie]]></title>
-            <link>https://www.archiweb.cz/b/vila-normanni-apulie</link>
-            <guid>https://www.archiweb.cz/b/vila-normanni-apulie</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Urban Interior</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9860_8.jpg-285x240.jpg?20260717133133" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9860_8.jpg-285x240.jpg?20260717133133" medium="image" />
         </item>
 </channel>
 </rss>
