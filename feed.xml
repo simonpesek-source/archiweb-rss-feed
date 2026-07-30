@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Wed, 29 Jul 2026 15:37:47 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 13:18:42 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Dům Beira Mar II]]></title>
+            <link>https://www.archiweb.cz/b/dum-beira-mar-ii</link>
+            <guid>https://www.archiweb.cz/b/dum-beira-mar-ii</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Paulo Martins Arquitectura</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9878.jpg-285x240.jpg?20260730120519" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9878.jpg-285x240.jpg?20260730120519" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Nové sídlo společnosti Sekyra Group]]></title>
+            <link>https://www.archiweb.cz/b/nove-sidlo-spolecnosti-sekyra-group</link>
+            <guid>https://www.archiweb.cz/b/nove-sidlo-spolecnosti-sekyra-group</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER KUNC architects, s.r.o.</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9875.jpg-285x240.jpg?20260730091031" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9875.jpg-285x240.jpg?20260730091031" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Rodinný dům v Mníšku pod Brdy]]></title>
             <link>https://www.archiweb.cz/b/rodinny-dum-v-mnisku-pod-brdy-molo</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Ateliér VAS</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9862.jpg-285x240.jpg?20260721075058" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9862.jpg-285x240.jpg?20260721075058" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rodinný dům Dobřichovice]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dum-dobrichovice-exa</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dum-dobrichovice-exa</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Expert Architects, s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9843_11.jpg-285x240.jpg?20260720090917" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9843_11.jpg-285x240.jpg?20260720090917" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům V]]></title>
-            <link>https://www.archiweb.cz/b/dum-v-1</link>
-            <guid>https://www.archiweb.cz/b/dum-v-1</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Tham & Videgård Arkitekter</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9861.jpg-285x240.jpg?20260719111106" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9861.jpg-285x240.jpg?20260719111106" medium="image" />
         </item>
 </channel>
 </rss>
