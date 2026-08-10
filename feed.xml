@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Sun, 09 Aug 2026 10:05:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 11:31:52 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Dům Hofmann]]></title>
+            <link>https://www.archiweb.cz/b/dum-hofmann-casa-hofmann</link>
+            <guid>https://www.archiweb.cz/b/dum-hofmann-casa-hofmann</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Fran Silvestre Arquitectos</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9886.jpg-285x240.jpg?20260809160119" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9886.jpg-285x240.jpg?20260809160119" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Byt Karlín IV]]></title>
             <link>https://www.archiweb.cz/b/byt-karlin-iv</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> CASUA s.r.o.</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9876.jpg-285x240.jpg?20260729090411" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9876.jpg-285x240.jpg?20260729090411" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Black House]]></title>
-            <link>https://www.archiweb.cz/b/black-house-1</link>
-            <guid>https://www.archiweb.cz/b/black-house-1</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MACHAR & TEICHMAN</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9867.jpg-285x240.jpg?20260728090220" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9867.jpg-285x240.jpg?20260728090220" medium="image" />
         </item>
 </channel>
 </rss>
