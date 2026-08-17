@@ -4,8 +4,32 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Sun, 16 Aug 2026 09:02:14 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 10:05:10 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Bytový dům Komenského]]></title>
+            <link>https://www.archiweb.cz/b/bytovy-dum-komenskeho</link>
+            <guid>https://www.archiweb.cz/b/bytovy-dum-komenskeho</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Stempel & Tesař architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9885.jpg-285x240.jpg?20260817083205" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9885.jpg-285x240.jpg?20260817083205" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Byt Bulharská]]></title>
+            <link>https://www.archiweb.cz/b/byt-bulharska</link>
+            <guid>https://www.archiweb.cz/b/byt-bulharska</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Anna Koukolová architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_8848_7.jpg-285x240.jpg?20260817084337" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_8848_7.jpg-285x240.jpg?20260817084337" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Dům Golgota]]></title>
+            <link>https://www.archiweb.cz/b/dum-golgota</link>
+            <guid>https://www.archiweb.cz/b/dum-golgota</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Floret Arquitectura</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9891.jpg-285x240.jpg?20260816170038" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9891.jpg-285x240.jpg?20260816170038" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Severínkovo námestie]]></title>
             <link>https://www.archiweb.cz/b/severinkovo-namestie</link>
@@ -101,30 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Paulo Archias Mendes da Rocha</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9880.jpg-285x240.jpg?20260804104406" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9880.jpg-285x240.jpg?20260804104406" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[SOMBRA - Óda na slunce]]></title>
-            <link>https://www.archiweb.cz/b/sombra-oda-na-slunce-manifest-pro-stin</link>
-            <guid>https://www.archiweb.cz/b/sombra-oda-na-slunce-manifest-pro-stin</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MVRDV</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9879.jpg-285x240.jpg?20260731092037" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9879.jpg-285x240.jpg?20260731092037" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Byt DNJ58]]></title>
-            <link>https://www.archiweb.cz/b/byt-dnj58</link>
-            <guid>https://www.archiweb.cz/b/byt-dnj58</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> abrama architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9877_1.jpg-285x240.jpg?20260730094648" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9877_1.jpg-285x240.jpg?20260730094648" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům Beira Mar II]]></title>
-            <link>https://www.archiweb.cz/b/dum-beira-mar-ii</link>
-            <guid>https://www.archiweb.cz/b/dum-beira-mar-ii</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Paulo Martins Arquitectura</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9878.jpg-285x240.jpg?20260730120519" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9878.jpg-285x240.jpg?20260730120519" medium="image" />
         </item>
 </channel>
 </rss>
