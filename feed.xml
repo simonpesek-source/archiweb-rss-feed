@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 17 Aug 2026 10:05:10 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 09:51:46 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Kavárnička Statenice]]></title>
+            <link>https://www.archiweb.cz/b/kavarnicka-statenice-prostor-pro-deti</link>
+            <guid>https://www.archiweb.cz/b/kavarnicka-statenice-prostor-pro-deti</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> boq architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9895_2.jpg-285x240.jpg?20260818000355" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9895_2.jpg-285x240.jpg?20260818000355" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Bytový dům Komenského]]></title>
             <link>https://www.archiweb.cz/b/bytovy-dum-komenskeho</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Expert Architects, s.r.o.</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9844.jpg-285x240.jpg?20260730095215" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9844.jpg-285x240.jpg?20260730095215" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Národní muzeum kočárů]]></title>
-            <link>https://www.archiweb.cz/b/muzeum-kocaru-museu-dos-coches</link>
-            <guid>https://www.archiweb.cz/b/muzeum-kocaru-museu-dos-coches</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Paulo Archias Mendes da Rocha</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9880.jpg-285x240.jpg?20260804104406" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9880.jpg-285x240.jpg?20260804104406" medium="image" />
         </item>
 </channel>
 </rss>
