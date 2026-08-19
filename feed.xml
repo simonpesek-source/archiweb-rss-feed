@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Tue, 18 Aug 2026 09:51:46 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 09:52:50 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Dopravní terminál Jihlava město]]></title>
+            <link>https://www.archiweb.cz/b/dopravni-terminal-jihlava-mesto</link>
+            <guid>https://www.archiweb.cz/b/dopravni-terminal-jihlava-mesto</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> RAW</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9897.jpg-285x240.jpg?20260819091338" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9897.jpg-285x240.jpg?20260819091338" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Kavárnička Statenice]]></title>
             <link>https://www.archiweb.cz/b/kavarnicka-statenice-prostor-pro-deti</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> dílna</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9881.jpg-285x240.jpg?20260803080635" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9881.jpg-285x240.jpg?20260803080635" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[SBH Living Štěrboholy]]></title>
-            <link>https://www.archiweb.cz/b/sbh-living-sterboholy</link>
-            <guid>https://www.archiweb.cz/b/sbh-living-sterboholy</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Expert Architects, s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9844.jpg-285x240.jpg?20260730095215" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9844.jpg-285x240.jpg?20260730095215" medium="image" />
         </item>
 </channel>
 </rss>
