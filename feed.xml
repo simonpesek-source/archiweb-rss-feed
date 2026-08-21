@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Thu, 20 Aug 2026 09:53:32 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 09:55:48 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Svazková základní škola LOŠBATES]]></title>
+            <link>https://www.archiweb.cz/b/svazkova-zakladni-skola-losbates</link>
+            <guid>https://www.archiweb.cz/b/svazkova-zakladni-skola-losbates</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Pelletier de Fontenay, SOA architekti, s.r.o.</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9902_1.jpg-285x240.jpg?20260821101605" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9902_1.jpg-285x240.jpg?20260821101605" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Revitalizace Templářských sklepů]]></title>
+            <link>https://www.archiweb.cz/b/revitalizace-templarskych-sklepu</link>
+            <guid>https://www.archiweb.cz/b/revitalizace-templarskych-sklepu</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Novague</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9901_16.jpg-285x240.jpg?20260820214614" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9901_16.jpg-285x240.jpg?20260820214614" medium="image" />
+        </item>
         <item>
             <title><![CDATA[ateliér Mimo]]></title>
             <link>https://www.archiweb.cz/b/atelier-mimo</link>
@@ -27,8 +43,8 @@
             <link>https://www.archiweb.cz/b/dopravni-terminal-jihlava-mesto</link>
             <guid>https://www.archiweb.cz/b/dopravni-terminal-jihlava-mesto</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> RAW</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9897.jpg-285x240.jpg?20260819091338" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9897.jpg-285x240.jpg?20260819091338" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9897.jpg-285x240.jpg?20260820132314" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9897.jpg-285x240.jpg?20260820132314" medium="image" />
         </item>
         <item>
             <title><![CDATA[Kavárnička Statenice]]></title>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> 0,5 Studio</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9869_1.jpg-285x240.jpg?20260807142018" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9869_1.jpg-285x240.jpg?20260807142018" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Mateřská škola Pozořice Dělnický dům]]></title>
-            <link>https://www.archiweb.cz/b/materska-skola-pozorice-delnicky-dum</link>
-            <guid>https://www.archiweb.cz/b/materska-skola-pozorice-delnicky-dum</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> RAW</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9872.jpg-285x240.jpg?20260806075529" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9872.jpg-285x240.jpg?20260806075529" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[DAY1]]></title>
-            <link>https://www.archiweb.cz/b/day1</link>
-            <guid>https://www.archiweb.cz/b/day1</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> DELICODE s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9882.jpg-285x240.jpg?20260813092351" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9882.jpg-285x240.jpg?20260813092351" medium="image" />
         </item>
 </channel>
 </rss>
