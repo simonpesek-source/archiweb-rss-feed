@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Fri, 21 Aug 2026 09:55:48 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 09:03:03 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Sociální bydlení na Montmartru]]></title>
+            <link>https://www.archiweb.cz/b/socialni-bydleni-na-montmartru</link>
+            <guid>https://www.archiweb.cz/b/socialni-bydleni-na-montmartru</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Atelier Kempe Thill</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9903.jpg-285x240.jpg?20260821143743" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9903.jpg-285x240.jpg?20260821143743" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Svazková základní škola LOŠBATES]]></title>
             <link>https://www.archiweb.cz/b/svazkova-zakladni-skola-losbates</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Fran Silvestre Arquitectos</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9886.jpg-285x240.jpg?20260809160119" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9886.jpg-285x240.jpg?20260809160119" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Byt Karlín IV]]></title>
-            <link>https://www.archiweb.cz/b/byt-karlin-iv</link>
-            <guid>https://www.archiweb.cz/b/byt-karlin-iv</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> 0,5 Studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9869_1.jpg-285x240.jpg?20260807142018" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9869_1.jpg-285x240.jpg?20260807142018" medium="image" />
         </item>
 </channel>
 </rss>
