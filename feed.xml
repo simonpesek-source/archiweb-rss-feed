@@ -4,15 +4,31 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 24 Aug 2026 10:21:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 09:56:20 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Vila v západních Čechách]]></title>
+            <link>https://www.archiweb.cz/b/vila-v-zapadnich-cechach</link>
+            <guid>https://www.archiweb.cz/b/vila-v-zapadnich-cechach</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MACHAR & TEICHMAN</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9905.jpg-285x240.jpg?20260825110432" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9905.jpg-285x240.jpg?20260825110432" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Betonový dům u lesa]]></title>
+            <link>https://www.archiweb.cz/b/betonovy-dum-u-lesa</link>
+            <guid>https://www.archiweb.cz/b/betonovy-dum-u-lesa</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER TECL</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9900.jpg-285x240.jpg?20260824125148" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9900.jpg-285x240.jpg?20260824125148" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Dom Vanek]]></title>
             <link>https://www.archiweb.cz/b/dom-vanek</link>
             <guid>https://www.archiweb.cz/b/dom-vanek</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> n/a</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9893.jpg-285x240.jpg?20260821101804" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9893.jpg-285x240.jpg?20260821101804" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9893.jpg-285x240.jpg?20260824205621" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9893.jpg-285x240.jpg?20260824205621" medium="image" />
         </item>
         <item>
             <title><![CDATA[Beyti Beytak. Můj dům je tvým domem]]></title>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> n/a</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9892.jpg-285x240.jpg?20260814104031" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9892.jpg-285x240.jpg?20260814104031" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rekonstrukce Slunečních lázní v Luhačovicích]]></title>
-            <link>https://www.archiweb.cz/b/rekonstrukce-slunecnich-lazni-v-luhacovicich</link>
-            <guid>https://www.archiweb.cz/b/rekonstrukce-slunecnich-lazni-v-luhacovicich</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> TRANSAT architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9890.jpg-285x240.jpg?20260813113900" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9890.jpg-285x240.jpg?20260813113900" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Muraba Veil Tower]]></title>
-            <link>https://www.archiweb.cz/b/muraba-veil-tower</link>
-            <guid>https://www.archiweb.cz/b/muraba-veil-tower</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> RCR Arquitectes</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9889.jpg-285x240.jpg?20260812102357" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9889.jpg-285x240.jpg?20260812102357" medium="image" />
         </item>
 </channel>
 </rss>
