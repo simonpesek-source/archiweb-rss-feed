@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Tue, 25 Aug 2026 09:56:20 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 10:05:52 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Základní škola Čebín]]></title>
+            <link>https://www.archiweb.cz/b/zakladni-skola-cebin</link>
+            <guid>https://www.archiweb.cz/b/zakladni-skola-cebin</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> knesl kynčl architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9906.jpg-285x240.jpg?20260825211436" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9906.jpg-285x240.jpg?20260825211436" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Vila v západních Čechách]]></title>
             <link>https://www.archiweb.cz/b/vila-v-zapadnich-cechach</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Floret Arquitectura</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9891.jpg-285x240.jpg?20260816170038" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9891.jpg-285x240.jpg?20260816170038" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Severínkovo námestie]]></title>
-            <link>https://www.archiweb.cz/b/severinkovo-namestie</link>
-            <guid>https://www.archiweb.cz/b/severinkovo-namestie</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> n/a</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9892.jpg-285x240.jpg?20260814104031" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9892.jpg-285x240.jpg?20260814104031" medium="image" />
         </item>
 </channel>
 </rss>
