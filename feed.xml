@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Sun, 30 Aug 2026 13:44:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 16:05:21 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Přestavba kotelny ve Vsetíně]]></title>
+            <link>https://www.archiweb.cz/b/prestavba-kotelny-ve-vsetine</link>
+            <guid>https://www.archiweb.cz/b/prestavba-kotelny-ve-vsetine</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Kamil Mrva Architects</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9912.jpg-285x240.jpg?20260831090233" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9912.jpg-285x240.jpg?20260831090233" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Umělecké a kreativní centrum ROG]]></title>
+            <link>https://www.archiweb.cz/b/umelecke-centrum-rog</link>
+            <guid>https://www.archiweb.cz/b/umelecke-centrum-rog</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Mendoza Partida</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9911.jpg-285x240.jpg?20260830183251" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9911.jpg-285x240.jpg?20260830183251" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Hudební škola v údolí Arratia]]></title>
             <link>https://www.archiweb.cz/b/hudebni-skola-arratia-musika</link>
@@ -43,8 +59,8 @@
             <link>https://www.archiweb.cz/b/bytovy-dum-manesova</link>
             <guid>https://www.archiweb.cz/b/bytovy-dum-manesova</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> OK PLAN ARCHITECTS</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9907.jpg-285x240.jpg?20260827090310" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9907.jpg-285x240.jpg?20260827090310" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9907.jpg-285x240.jpg?20260830233719" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9907.jpg-285x240.jpg?20260830233719" medium="image" />
         </item>
         <item>
             <title><![CDATA[Vila v západních Čechách]]></title>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Novague</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9901_16.jpg-285x240.jpg?20260820214614" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9901_16.jpg-285x240.jpg?20260820214614" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[ateliér Mimo]]></title>
-            <link>https://www.archiweb.cz/b/atelier-mimo</link>
-            <guid>https://www.archiweb.cz/b/atelier-mimo</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MOLO ARCHITEKTI</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9898_3.jpg-285x240.jpg?20260819183542" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9898_3.jpg-285x240.jpg?20260819183542" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům Calera]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dum-calera-casa-calera-y-chozas</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dum-calera-casa-calera-y-chozas</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Jorge Vidal Studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9899.jpg-285x240.jpg?20260819135902" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9899.jpg-285x240.jpg?20260819135902" medium="image" />
         </item>
 </channel>
 </rss>
