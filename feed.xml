@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Tue, 01 Sep 2026 13:25:07 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 12:42:46 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Rodinný dom Záhorská Bystrica]]></title>
+            <link>https://www.archiweb.cz/b/rodinny-dom-zahorska-bystrica</link>
+            <guid>https://www.archiweb.cz/b/rodinny-dom-zahorska-bystrica</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Endorfine</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9919.jpg-285x240.jpg?20260902134134" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9919.jpg-285x240.jpg?20260902134134" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Dům se dvorem]]></title>
+            <link>https://www.archiweb.cz/b/dum-se-dvorem</link>
+            <guid>https://www.archiweb.cz/b/dum-se-dvorem</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MIRAMARI DESIGN</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902134147" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902134147" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Víkendový dům Plaj]]></title>
             <link>https://www.archiweb.cz/b/dum-plaj</link>
@@ -27,8 +43,8 @@
             <link>https://www.archiweb.cz/b/masarykova-verejna-knihovna-vsetin</link>
             <guid>https://www.archiweb.cz/b/masarykova-verejna-knihovna-vsetin</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Fusion Architects</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9887_1.jpg-285x240.jpg?20260831101709" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9887_1.jpg-285x240.jpg?20260831101709" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9887_1.jpg-285x240.jpg?20260901233109" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9887_1.jpg-285x240.jpg?20260901233109" medium="image" />
         </item>
         <item>
             <title><![CDATA[Základní škola, Komenského náměstí, Říčany]]></title>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> knesl kynčl architekti</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9906.jpg-285x240.jpg?20260826202142" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9906.jpg-285x240.jpg?20260826202142" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Betonový dům u lesa]]></title>
-            <link>https://www.archiweb.cz/b/betonovy-dum-u-lesa</link>
-            <guid>https://www.archiweb.cz/b/betonovy-dum-u-lesa</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER TECL</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9900.jpg-285x240.jpg?20260824125148" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9900.jpg-285x240.jpg?20260824125148" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dom Vanek]]></title>
-            <link>https://www.archiweb.cz/b/dom-vanek</link>
-            <guid>https://www.archiweb.cz/b/dom-vanek</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> n/a</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9893.jpg-285x240.jpg?20260824205621" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9893.jpg-285x240.jpg?20260824205621" medium="image" />
         </item>
 </channel>
 </rss>
