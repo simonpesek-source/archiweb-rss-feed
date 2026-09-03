@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Wed, 02 Sep 2026 12:42:46 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 12:45:35 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Základní škola Šeberov]]></title>
+            <link>https://www.archiweb.cz/b/zakladni-skola-seberov</link>
+            <guid>https://www.archiweb.cz/b/zakladni-skola-seberov</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ADR</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9918.jpg-285x240.jpg?20260903071247" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9918.jpg-285x240.jpg?20260903071247" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Dům se dvorem]]></title>
+            <link>https://www.archiweb.cz/b/dum-se-dvorem</link>
+            <guid>https://www.archiweb.cz/b/dum-se-dvorem</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MIRAMARI DESIGN</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902235245" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902235245" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Rodinný dom Záhorská Bystrica]]></title>
             <link>https://www.archiweb.cz/b/rodinny-dom-zahorska-bystrica</link>
@@ -13,14 +29,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Endorfine</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9919.jpg-285x240.jpg?20260902134134" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9919.jpg-285x240.jpg?20260902134134" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům se dvorem]]></title>
-            <link>https://www.archiweb.cz/b/dum-se-dvorem</link>
-            <guid>https://www.archiweb.cz/b/dum-se-dvorem</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MIRAMARI DESIGN</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902134147" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902134147" medium="image" />
         </item>
         <item>
             <title><![CDATA[Víkendový dům Plaj]]></title>
@@ -51,8 +59,8 @@
             <link>https://www.archiweb.cz/b/zakladni-skola-komenskeho-namesti-ricany</link>
             <guid>https://www.archiweb.cz/b/zakladni-skola-komenskeho-namesti-ricany</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Rusina Frei architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9914.jpg-285x240.jpg?20260831194038" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9914.jpg-285x240.jpg?20260831194038" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9914.jpg-285x240.jpg?20260903085933" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9914.jpg-285x240.jpg?20260903085933" medium="image" />
         </item>
         <item>
             <title><![CDATA[Přestavba kotelny ve Vsetíně]]></title>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MACHAR & TEICHMAN</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9905.jpg-285x240.jpg?20260825110432" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9905.jpg-285x240.jpg?20260825110432" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Základní škola Čebín]]></title>
-            <link>https://www.archiweb.cz/b/zakladni-skola-cebin</link>
-            <guid>https://www.archiweb.cz/b/zakladni-skola-cebin</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> knesl kynčl architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9906.jpg-285x240.jpg?20260826202142" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9906.jpg-285x240.jpg?20260826202142" medium="image" />
         </item>
 </channel>
 </rss>
