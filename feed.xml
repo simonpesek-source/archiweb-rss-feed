@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Thu, 03 Sep 2026 12:45:35 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 12:39:25 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Administrativní komplex Hagibor Office Europe Centre]]></title>
+            <link>https://www.archiweb.cz/b/administrativni-komplex-hagibor-office-europe-centre</link>
+            <guid>https://www.archiweb.cz/b/administrativni-komplex-hagibor-office-europe-centre</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Bogle Architects</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9920.jpg-285x240.jpg?20260904113448" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9920.jpg-285x240.jpg?20260904113448" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Na půdě]]></title>
+            <link>https://www.archiweb.cz/b/na-pude</link>
+            <guid>https://www.archiweb.cz/b/na-pude</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> boq architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9896_2.jpg-285x240.jpg?20260903225344" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9896_2.jpg-285x240.jpg?20260903225344" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Základní škola Šeberov]]></title>
             <link>https://www.archiweb.cz/b/zakladni-skola-seberov</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Jordi Hidalgo Tané</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9908.jpg-285x240.jpg?20260827112930" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9908.jpg-285x240.jpg?20260827112930" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Bytový dům Mánesova]]></title>
-            <link>https://www.archiweb.cz/b/bytovy-dum-manesova</link>
-            <guid>https://www.archiweb.cz/b/bytovy-dum-manesova</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> OK PLAN ARCHITECTS</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9907.jpg-285x240.jpg?20260830233719" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9907.jpg-285x240.jpg?20260830233719" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Vila v západních Čechách]]></title>
-            <link>https://www.archiweb.cz/b/vila-v-zapadnich-cechach</link>
-            <guid>https://www.archiweb.cz/b/vila-v-zapadnich-cechach</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MACHAR & TEICHMAN</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9905.jpg-285x240.jpg?20260825110432" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9905.jpg-285x240.jpg?20260825110432" medium="image" />
         </item>
 </channel>
 </rss>
