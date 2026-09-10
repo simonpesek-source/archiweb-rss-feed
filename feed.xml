@@ -4,15 +4,39 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Wed, 09 Sep 2026 12:53:14 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 12:51:17 GMT</lastBuildDate>
   
         <item>
-            <title><![CDATA[Rodinný dom v Lamači]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dom-v-lamaci</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dom-v-lamaci</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Eckhardt.studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260908125357" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260908125357" medium="image" />
+            <title><![CDATA[Muzeum současného umění v Su-čou]]></title>
+            <link>https://www.archiweb.cz/b/suzhou-museum-of-contemporary-art</link>
+            <guid>https://www.archiweb.cz/b/suzhou-museum-of-contemporary-art</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> BIG</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9932.jpg-285x240.jpg?20260909234600" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9932.jpg-285x240.jpg?20260909234600" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Čítárna na půdě]]></title>
+            <link>https://www.archiweb.cz/b/citarna-na-pude</link>
+            <guid>https://www.archiweb.cz/b/citarna-na-pude</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> 3K Architects s.r.o.</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9931_1.jpg-285x240.jpg?20260910120724" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9931_1.jpg-285x240.jpg?20260910120724" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Bytový dům U Milosrdných]]></title>
+            <link>https://www.archiweb.cz/b/bytovy-dum-u-milosrdnych</link>
+            <guid>https://www.archiweb.cz/b/bytovy-dum-u-milosrdnych</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Fránek Architects</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9921.jpg-285x240.jpg?20260909203713" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9921.jpg-285x240.jpg?20260909203713" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Výjezdová základna ZZS JMK]]></title>
+            <link>https://www.archiweb.cz/b/vyjezdova-zakladna-zzs-jmk</link>
+            <guid>https://www.archiweb.cz/b/vyjezdova-zakladna-zzs-jmk</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> HUA HUA ARCHITECTS s.r.o.</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9930_1.jpg-285x240.jpg?20260910113140" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9930_1.jpg-285x240.jpg?20260910113140" medium="image" />
         </item>
         <item>
             <title><![CDATA[Domek u jezírka]]></title>
@@ -23,20 +47,20 @@
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9926.jpeg-285x240.jpg?20260907224147" medium="image" />
         </item>
         <item>
-            <title><![CDATA[Bytový dům U Milosrdných]]></title>
-            <link>https://www.archiweb.cz/b/bytovy-dum-u-milosrdnych</link>
-            <guid>https://www.archiweb.cz/b/bytovy-dum-u-milosrdnych</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Fránek Architects</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9921.jpg-285x240.jpg?20260908095452" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9921.jpg-285x240.jpg?20260908095452" medium="image" />
+            <title><![CDATA[Rodinný dom v Lamači]]></title>
+            <link>https://www.archiweb.cz/b/rodinny-dom-v-lamaci</link>
+            <guid>https://www.archiweb.cz/b/rodinny-dom-v-lamaci</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Eckhardt.studio</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260909202634" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260909202634" medium="image" />
         </item>
         <item>
             <title><![CDATA[Rekonstrukce tiskárny v Železné ulici]]></title>
             <link>https://www.archiweb.cz/b/rekonstrukce-tiskarny-v-zelezne-ulici</link>
             <guid>https://www.archiweb.cz/b/rekonstrukce-tiskarny-v-zelezne-ulici</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER ŽELEZNÁ</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9928.jpg-285x240.jpg?20260908095823" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9928.jpg-285x240.jpg?20260908095823" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9928.jpg-285x240.jpg?20260910110740" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9928.jpg-285x240.jpg?20260910110740" medium="image" />
         </item>
         <item>
             <title><![CDATA[Vyhlídka bez výhledu]]></title>
@@ -101,30 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MIRAMARI DESIGN</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902235245" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9917.jpg-285x240.jpg?20260902235245" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rodinný dom Záhorská Bystrica]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dom-zahorska-bystrica</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dom-zahorska-bystrica</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Endorfine</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9919.jpg-285x240.jpg?20260902134134" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9919.jpg-285x240.jpg?20260902134134" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Víkendový dům Plaj]]></title>
-            <link>https://www.archiweb.cz/b/dum-plaj</link>
-            <guid>https://www.archiweb.cz/b/dum-plaj</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> extrastudio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9916.jpg-285x240.jpg?20260901150843" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9916.jpg-285x240.jpg?20260901150843" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[donebe Hotel & Wellness]]></title>
-            <link>https://www.archiweb.cz/b/donebe-hotel-wellness</link>
-            <guid>https://www.archiweb.cz/b/donebe-hotel-wellness</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Jana Zadák</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9915.jpg-285x240.jpg?20260901134402" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9915.jpg-285x240.jpg?20260901134402" medium="image" />
         </item>
 </channel>
 </rss>
