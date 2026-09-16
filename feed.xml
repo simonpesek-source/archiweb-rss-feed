@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Tue, 15 Sep 2026 13:24:09 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 13:23:28 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Vila M]]></title>
+            <link>https://www.archiweb.cz/b/vila-m</link>
+            <guid>https://www.archiweb.cz/b/vila-m</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Tunicate, KST architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9939.jpg-285x240.jpg?20260915235350" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9939.jpg-285x240.jpg?20260915235350" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Terminál veřejné dopravy, Klatovy]]></title>
             <link>https://www.archiweb.cz/b/terminal-verejne-dopravy-klatovy</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ARN STUDIO</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9927.jpg-285x240.jpg?20260908184609" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9927.jpg-285x240.jpg?20260908184609" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům se šikmou fasádou]]></title>
-            <link>https://www.archiweb.cz/b/dum-se-sikmou-fasadou</link>
-            <guid>https://www.archiweb.cz/b/dum-se-sikmou-fasadou</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Papundekl architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9924.jpg-285x240.jpg?20260907142514" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9924.jpg-285x240.jpg?20260907142514" medium="image" />
         </item>
 </channel>
 </rss>
