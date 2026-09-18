@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Thu, 17 Sep 2026 13:19:21 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 12:53:42 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Mini Atalhada]]></title>
+            <link>https://www.archiweb.cz/b/mini-atalhada</link>
+            <guid>https://www.archiweb.cz/b/mini-atalhada</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> SO Arquitetura & Design</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9940.jpg-285x240.jpg?20260918094346" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9940.jpg-285x240.jpg?20260918094346" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Dům z opalovaného dřeva v Černém Dole]]></title>
             <link>https://www.archiweb.cz/b/dum-z-opalovaneho-dreva-v-cernem-dole</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Eckhardt.studio</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260909202634" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260909202634" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rekonstrukce tiskárny v Železné ulici]]></title>
-            <link>https://www.archiweb.cz/b/rekonstrukce-tiskarny-v-zelezne-ulici</link>
-            <guid>https://www.archiweb.cz/b/rekonstrukce-tiskarny-v-zelezne-ulici</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER ŽELEZNÁ</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9928.jpg-285x240.jpg?20260910110740" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9928.jpg-285x240.jpg?20260910110740" medium="image" />
         </item>
 </channel>
 </rss>
