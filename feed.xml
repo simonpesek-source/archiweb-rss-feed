@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Fri, 18 Sep 2026 12:53:42 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 12:25:52 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Rekonstrukce řadového domu Grygov]]></title>
+            <link>https://www.archiweb.cz/b/rekonstrukce-radoveho-domu-grygov</link>
+            <guid>https://www.archiweb.cz/b/rekonstrukce-radoveho-domu-grygov</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> No-A Architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9941.jpg-285x240.jpg?20260918230517" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9941.jpg-285x240.jpg?20260918230517" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Mini Atalhada]]></title>
             <link>https://www.archiweb.cz/b/mini-atalhada</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Biotope Architecture and Interiors</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9926.jpeg-285x240.jpg?20260907224147" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9926.jpeg-285x240.jpg?20260907224147" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rodinný dom v Lamači]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dom-v-lamaci</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dom-v-lamaci</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Eckhardt.studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260909202634" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9929.jpg-285x240.jpg?20260909202634" medium="image" />
         </item>
 </channel>
 </rss>
