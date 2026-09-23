@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Tue, 22 Sep 2026 13:19:33 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 13:33:18 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Zahradní altány pro mateřské školy ve Žďáře nad Sázavou]]></title>
+            <link>https://www.archiweb.cz/b/zahradni-altany-pro-materske-skoly-ve-zdare-nad-sazavou</link>
+            <guid>https://www.archiweb.cz/b/zahradni-altany-pro-materske-skoly-ve-zdare-nad-sazavou</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> GRIMM Architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9948.jpg-285x240.jpg?20260923084224" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9948.jpg-285x240.jpg?20260923084224" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Vila u Moravského krasu]]></title>
+            <link>https://www.archiweb.cz/b/vila-u-moravskeho-krasu</link>
+            <guid>https://www.archiweb.cz/b/vila-u-moravskeho-krasu</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER TECL</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9944.jpg-285x240.jpg?20260923074844" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9944.jpg-285x240.jpg?20260923074844" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Přestavba hotelu Morava v Tatranské Lomnici]]></title>
             <link>https://www.archiweb.cz/b/prestavba-hotelu-morava-v-tatranske-lomnici</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> momentura</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9934.jpg-285x240.jpg?20260911101534" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9934.jpg-285x240.jpg?20260911101534" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Bukovanský domeček]]></title>
-            <link>https://www.archiweb.cz/b/bukovansky-domecek</link>
-            <guid>https://www.archiweb.cz/b/bukovansky-domecek</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> SENAA architekti, s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9935.jpg-285x240.jpg?20260910155344" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9935.jpg-285x240.jpg?20260910155344" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Muzeum současného umění v Su-čou]]></title>
-            <link>https://www.archiweb.cz/b/suzhou-museum-of-contemporary-art</link>
-            <guid>https://www.archiweb.cz/b/suzhou-museum-of-contemporary-art</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> BIG</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9932.jpg-285x240.jpg?20260909234600" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9932.jpg-285x240.jpg?20260909234600" medium="image" />
         </item>
 </channel>
 </rss>
