@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Thu, 24 Sep 2026 13:28:43 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 13:34:46 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Dům v Chorvatsku]]></title>
+            <link>https://www.archiweb.cz/b/dum-v-chorvatsku</link>
+            <guid>https://www.archiweb.cz/b/dum-v-chorvatsku</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Markéta Cajthamlová</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9943.jpg-285x240.jpg?20260924233222" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9943.jpg-285x240.jpg?20260924233222" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Prázdninové domy v Rageleje]]></title>
             <link>https://www.archiweb.cz/b/prazdninove-domy-v-rageleje</link>
@@ -21,6 +29,14 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MACHAR & TEICHMAN</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9951.jpg-285x240.jpg?20260924083421" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9951.jpg-285x240.jpg?20260924083421" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Industriální krajka v Modřanském cukrovaru]]></title>
+            <link>https://www.archiweb.cz/b/industrialni-krajka-v-modranskem-cukrovaru</link>
+            <guid>https://www.archiweb.cz/b/industrialni-krajka-v-modranskem-cukrovaru</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Mooza Architecture</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9950.jpg-285x240.jpg?20260924205852" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9950.jpg-285x240.jpg?20260924205852" medium="image" />
         </item>
         <item>
             <title><![CDATA[Smuteční síň na novém hřbitově v Tišnově]]></title>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Tunicate, KST architekti</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9939.jpg-285x240.jpg?20260915235350" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9939.jpg-285x240.jpg?20260915235350" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Terminál veřejné dopravy, Klatovy]]></title>
-            <link>https://www.archiweb.cz/b/terminal-verejne-dopravy-klatovy</link>
-            <guid>https://www.archiweb.cz/b/terminal-verejne-dopravy-klatovy</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> knesl kynčl architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9933.jpg-285x240.jpg?20260915090046" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9933.jpg-285x240.jpg?20260915090046" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům L u řeky Hudson]]></title>
-            <link>https://www.archiweb.cz/b/dum-l-u-reky-hudson</link>
-            <guid>https://www.archiweb.cz/b/dum-l-u-reky-hudson</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Steven Holl, Dimitra Tsachrelia</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9938.jpg-285x240.jpg?20260914105739" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9938.jpg-285x240.jpg?20260914105739" medium="image" />
         </item>
 </channel>
 </rss>
