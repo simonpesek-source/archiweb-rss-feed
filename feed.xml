@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 28 Sep 2026 16:41:24 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 14:46:48 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Stará hasička]]></title>
+            <link>https://www.archiweb.cz/b/stara-hasicka-nove-spolecenske-centrum</link>
+            <guid>https://www.archiweb.cz/b/stara-hasicka-nove-spolecenske-centrum</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> schwerpunkt.</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9958.jpg-285x240.jpg?20260928190512" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9958.jpg-285x240.jpg?20260928190512" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Brána k benátským vodním cestám]]></title>
             <link>https://www.archiweb.cz/b/brana-k-benatskym-vodnim-cestam</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> BekArch</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9945.jpg-285x240.jpg?20260921141317" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9945.jpg-285x240.jpg?20260921141317" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům Skříň]]></title>
-            <link>https://www.archiweb.cz/b/dum-skrin</link>
-            <guid>https://www.archiweb.cz/b/dum-skrin</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Šépka architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9942_13.jpg-285x240.jpg?20260920133953" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9942_13.jpg-285x240.jpg?20260920133953" medium="image" />
         </item>
 </channel>
 </rss>
