@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Wed, 30 Sep 2026 14:50:13 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 15:21:07 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Střelnice]]></title>
+            <link>https://www.archiweb.cz/b/strelnice</link>
+            <guid>https://www.archiweb.cz/b/strelnice</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> atakarchitekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9962.jpg-285x240.jpg?20261001085023" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9962.jpg-285x240.jpg?20261001085023" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Barrandez-vous II]]></title>
             <link>https://www.archiweb.cz/b/barrandez-vous-ii</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER TECL</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9944.jpg-285x240.jpg?20260923074844" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9944.jpg-285x240.jpg?20260923074844" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Nová budova Magistrátu města Brna - 3. cena]]></title>
-            <link>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-3-cena</link>
-            <guid>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-3-cena</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MAAUS s.r.o., mohr niklas architekten</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9956.jpg-285x240.jpg?20260930110347" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9956.jpg-285x240.jpg?20260930110347" medium="image" />
         </item>
 </channel>
 </rss>
