@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Thu, 01 Oct 2026 15:21:07 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 14:39:36 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Dům MyMozart]]></title>
+            <link>https://www.archiweb.cz/b/dum-mymozart</link>
+            <guid>https://www.archiweb.cz/b/dum-mymozart</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> A.LT architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9964.jpg-285x240.jpg?20261002125022" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9964.jpg-285x240.jpg?20261002125022" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Dům mezi stromy]]></title>
+            <link>https://www.archiweb.cz/b/dum-mezi-stromy-1</link>
+            <guid>https://www.archiweb.cz/b/dum-mezi-stromy-1</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Studio COSMO</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9960.jpg-285x240.jpg?20261002085924" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9960.jpg-285x240.jpg?20261002085924" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Střelnice]]></title>
             <link>https://www.archiweb.cz/b/strelnice</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> JURA ET CONSORTES</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9949_1.jpg-285x240.jpg?20260923102013" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9949_1.jpg-285x240.jpg?20260923102013" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Zahradní altány pro mateřské školy ve Žďáře nad Sázavou]]></title>
-            <link>https://www.archiweb.cz/b/zahradni-altany-pro-materske-skoly-ve-zdare-nad-sazavou</link>
-            <guid>https://www.archiweb.cz/b/zahradni-altany-pro-materske-skoly-ve-zdare-nad-sazavou</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> GRIMM Architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9948.jpg-285x240.jpg?20260923084224" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9948.jpg-285x240.jpg?20260923084224" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Vila u Moravského krasu]]></title>
-            <link>https://www.archiweb.cz/b/vila-u-moravskeho-krasu</link>
-            <guid>https://www.archiweb.cz/b/vila-u-moravskeho-krasu</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER TECL</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9944.jpg-285x240.jpg?20260923074844" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9944.jpg-285x240.jpg?20260923074844" medium="image" />
         </item>
 </channel>
 </rss>
