@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Wed, 07 Oct 2026 15:27:42 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 15:28:51 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Bytový dům Vivus Žižkov]]></title>
+            <link>https://www.archiweb.cz/b/bytovy-dum-vivus-zizkov</link>
+            <guid>https://www.archiweb.cz/b/bytovy-dum-vivus-zizkov</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Stempel & Tesař architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9954.jpg-285x240.jpg?20261008100925" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9954.jpg-285x240.jpg?20261008100925" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Farní kostel sv. Ondřeje v Puchenau]]></title>
             <link>https://www.archiweb.cz/b/farni-kostel-sv-ondreje-v-puchenau-pfarrkirche-st-andreas-puchenau</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Lord Norman Foster</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9957.jpg-285x240.jpg?20260928171719" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9957.jpg-285x240.jpg?20260928171719" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Výminek]]></title>
-            <link>https://www.archiweb.cz/b/vyminek</link>
-            <guid>https://www.archiweb.cz/b/vyminek</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Eko modular</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9955.jpg-285x240.jpg?20260927000315" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9955.jpg-285x240.jpg?20260927000315" medium="image" />
         </item>
 </channel>
 </rss>
