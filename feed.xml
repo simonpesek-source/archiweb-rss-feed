@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 12 Oct 2026 17:41:56 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 15:49:59 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Zázemí hřbitova Polanka nad Odrou]]></title>
+            <link>https://www.archiweb.cz/b/zazemi-hrbitova-polanka-nad-odrou</link>
+            <guid>https://www.archiweb.cz/b/zazemi-hrbitova-polanka-nad-odrou</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> bydloarchitekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9979.jpg-285x240.jpg?20261013083628" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9979.jpg-285x240.jpg?20261013083628" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Rekonstrukce jednodomku ve Zlíně]]></title>
             <link>https://www.archiweb.cz/b/rekonstrukce-jednodomku-ve-zline</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> atakarchitekti</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9962.jpg-285x240.jpg?20261001085023" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9962.jpg-285x240.jpg?20261001085023" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Barrandez-vous II]]></title>
-            <link>https://www.archiweb.cz/b/barrandez-vous-ii</link>
-            <guid>https://www.archiweb.cz/b/barrandez-vous-ii</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> under-construction architects</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9959.jpg-285x240.jpg?20260930073950" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9959.jpg-285x240.jpg?20260930073950" medium="image" />
         </item>
 </channel>
 </rss>
