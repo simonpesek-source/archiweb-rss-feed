@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Thu, 15 Oct 2026 13:17:59 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 13:09:26 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Přístavní dům]]></title>
+            <link>https://www.archiweb.cz/b/pristavni-dum-przysta-w-bia-ym-borze</link>
+            <guid>https://www.archiweb.cz/b/pristavni-dum-przysta-w-bia-ym-borze</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> KWK PROMES</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9987.jpg-285x240.jpg?20261016111327" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9987.jpg-285x240.jpg?20261016111327" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Interiér bytu na Vinohradech]]></title>
+            <link>https://www.archiweb.cz/b/interier-bytu-na-vinohradech</link>
+            <guid>https://www.archiweb.cz/b/interier-bytu-na-vinohradech</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> 0,5 Studio</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9985_4.jpg-285x240.jpg?20261016121206" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9985_4.jpg-285x240.jpg?20261016121206" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Richard Wagner Museum]]></title>
             <link>https://www.archiweb.cz/b/richard-wagner-museum</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> mackovič architecture</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9963.jpg-285x240.jpg?20261009230719" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9963.jpg-285x240.jpg?20261009230719" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Bytové domy Křídlovická v Brně - vítězný návrh]]></title>
-            <link>https://www.archiweb.cz/b/bytove-domy-kridlovicka-v-brne-vitezny-navrh</link>
-            <guid>https://www.archiweb.cz/b/bytove-domy-kridlovicka-v-brne-vitezny-navrh</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> studio AEIOU</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9970.jpg-285x240.jpg?20261014202232" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9970.jpg-285x240.jpg?20261014202232" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dům Labri]]></title>
-            <link>https://www.archiweb.cz/b/dum-labri</link>
-            <guid>https://www.archiweb.cz/b/dum-labri</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> NKAA Studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9966.jpg-285x240.jpg?20261003124331" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9966.jpg-285x240.jpg?20261003124331" medium="image" />
         </item>
 </channel>
 </rss>
