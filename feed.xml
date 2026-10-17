@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Fri, 16 Oct 2026 13:09:26 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 12:05:28 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Spiegelbaude am See]]></title>
+            <link>https://www.archiweb.cz/b/spiegelbaude</link>
+            <guid>https://www.archiweb.cz/b/spiegelbaude</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> A1Architects</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_8930.jpg-285x240.jpg?20261017115142" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_8930.jpg-285x240.jpg?20261017115142" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Přístavní dům]]></title>
             <link>https://www.archiweb.cz/b/pristavni-dum-przysta-w-bia-ym-borze</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Architektura s.r.o.</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9967.jpg-285x240.jpg?20261005194751" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9967.jpg-285x240.jpg?20261005194751" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rodinný dům Šestajovice]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dum-sestajovice</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dum-sestajovice</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> mackovič architecture</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9963.jpg-285x240.jpg?20261009230719" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9963.jpg-285x240.jpg?20261009230719" medium="image" />
         </item>
 </channel>
 </rss>
