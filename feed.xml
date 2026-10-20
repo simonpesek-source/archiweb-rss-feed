@@ -4,7 +4,7 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 19 Oct 2026 15:29:04 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 13:29:52 GMT</lastBuildDate>
   
         <item>
             <title><![CDATA[Rekonstrukce bytu Varhulíkové]]></title>
@@ -13,6 +13,14 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ZO.SA.MA</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9986.jpg-285x240.jpg?20261019100006" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9986.jpg-285x240.jpg?20261019100006" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Vila Josefína]]></title>
+            <link>https://www.archiweb.cz/b/vila-josefina-rekonstrukce-objektu</link>
+            <guid>https://www.archiweb.cz/b/vila-josefina-rekonstrukce-objektu</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> RAW</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9982.jpg-285x240.jpg?20261019212305" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9982.jpg-285x240.jpg?20261019212305" medium="image" />
         </item>
         <item>
             <title><![CDATA[Kulturní centrum Pivovar]]></title>
@@ -69,14 +77,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> UNG architekti, wohlfahrt architekti</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9983.jpg-285x240.jpg?20261014150126" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9983.jpg-285x240.jpg?20261014150126" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Vila Josefína]]></title>
-            <link>https://www.archiweb.cz/b/vila-josefina-rekonstrukce-objektu</link>
-            <guid>https://www.archiweb.cz/b/vila-josefina-rekonstrukce-objektu</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> RAW</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9982.jpg-285x240.jpg?20261019090855" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9982.jpg-285x240.jpg?20261019090855" medium="image" />
         </item>
         <item>
             <title><![CDATA[Zázemí hřbitova Polanka nad Odrou]]></title>
