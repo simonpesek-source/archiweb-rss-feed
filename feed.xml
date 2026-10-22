@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Wed, 21 Oct 2026 13:39:49 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 13:41:23 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Rezidence Juliska]]></title>
+            <link>https://www.archiweb.cz/b/rezidence-juliska</link>
+            <guid>https://www.archiweb.cz/b/rezidence-juliska</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Atelier bod architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9993.jpg-285x240.jpg?20261022094134" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9993.jpg-285x240.jpg?20261022094134" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Vila Josefína]]></title>
             <link>https://www.archiweb.cz/b/vila-josefina-rekonstrukce-objektu</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER ŽELEZNÁ</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9977.jpg-285x240.jpg?20261012075212" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9977.jpg-285x240.jpg?20261012075212" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rodinný dom Vidlicová, Bratislava]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dom-vidlicova-bratislava</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dom-vidlicova-bratislava</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> MARTIN VOJTA architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9973.jpg-285x240.jpg?20261009100009" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9973.jpg-285x240.jpg?20261009100009" medium="image" />
         </item>
 </channel>
 </rss>
