@@ -4,15 +4,23 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Sun, 25 Oct 2026 13:07:40 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 15:05:03 GMT</lastBuildDate>
   
         <item>
-            <title><![CDATA[New Aarhus School of Architecture]]></title>
+            <title><![CDATA[Hvězda v Beskydech]]></title>
+            <link>https://www.archiweb.cz/b/hvezda-v-beskydech-rodinny-dum-v-celadne</link>
+            <guid>https://www.archiweb.cz/b/hvezda-v-beskydech-rodinny-dum-v-celadne</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> LABOR13</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9996.jpg-285x240.jpg?20261026113826" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9996.jpg-285x240.jpg?20261026113826" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Nová Škola architektury v Aarhusu]]></title>
             <link>https://www.archiweb.cz/b/new-aarhus-school-of-architecture</link>
             <guid>https://www.archiweb.cz/b/new-aarhus-school-of-architecture</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ADEPT Architects</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9992.jpg-285x240.jpg?20261025134500" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9992.jpg-285x240.jpg?20261025134500" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9992.jpg-285x240.jpg?20261025213251" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9992.jpg-285x240.jpg?20261025213251" medium="image" />
         </item>
         <item>
             <title><![CDATA[Rezidence Juliska]]></title>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> DOOOM</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9978.jpg-285x240.jpg?20261015094726" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9978.jpg-285x240.jpg?20261015094726" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Denný stacionár pre seniorov Nezábudka]]></title>
-            <link>https://www.archiweb.cz/b/denny-stacionar-pre-seniorov-nezabudka</link>
-            <guid>https://www.archiweb.cz/b/denny-stacionar-pre-seniorov-nezabudka</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> architekti SPDe</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9974.jpg-285x240.jpg?20261012070228" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9974.jpg-285x240.jpg?20261012070228" medium="image" />
         </item>
 </channel>
 </rss>
