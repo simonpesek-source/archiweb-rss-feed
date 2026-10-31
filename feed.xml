@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Fri, 30 Oct 2026 14:58:44 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 14:27:30 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Provozní středisko Vodárenské akciové společnosti]]></title>
+            <link>https://www.archiweb.cz/b/provozni-stredisko-vodarenske-akciove-spolecnosti-v-zidlochovicich</link>
+            <guid>https://www.archiweb.cz/b/provozni-stredisko-vodarenske-akciove-spolecnosti-v-zidlochovicich</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Tomáš Dvořák architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9999_1.jpg-285x240.jpg?20261031104640" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9999_1.jpg-285x240.jpg?20261031104640" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Secesní byt na nábřeží]]></title>
             <link>https://www.archiweb.cz/b/secesni-byt-na-nabrezi</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Staab Architekten</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9984.jpg-285x240.jpg?20261015122425" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9984.jpg-285x240.jpg?20261015122425" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rodinný dům Ctiboř]]></title>
-            <link>https://www.archiweb.cz/b/rodinny-dum-ctibor</link>
-            <guid>https://www.archiweb.cz/b/rodinny-dum-ctibor</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> LABOR13</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9981.jpg-285x240.jpg?20261014091020" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9981.jpg-285x240.jpg?20261014091020" medium="image" />
         </item>
 </channel>
 </rss>
