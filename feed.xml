@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Sat, 31 Oct 2026 14:27:30 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 14:55:51 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Penthouse Savanna]]></title>
+            <link>https://www.archiweb.cz/b/penthouse-savanna</link>
+            <guid>https://www.archiweb.cz/b/penthouse-savanna</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> under-construction architects</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10002.jpg-285x240.jpg?20261101112549" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10002.jpg-285x240.jpg?20261101112549" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Serpentine Gallery Pavilion 2026]]></title>
+            <link>https://www.archiweb.cz/b/serpentine-gallery-pavilion-2026</link>
+            <guid>https://www.archiweb.cz/b/serpentine-gallery-pavilion-2026</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> LANZA atelier</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10001.jpg-285x240.jpg?20261101100105" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10001.jpg-285x240.jpg?20261101100105" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Provozní středisko Vodárenské akciové společnosti]]></title>
             <link>https://www.archiweb.cz/b/provozni-stredisko-vodarenske-akciove-spolecnosti-v-zidlochovicich</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> KWK PROMES</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9987.jpg-285x240.jpg?20261016101327" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9987.jpg-285x240.jpg?20261016101327" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Interiér bytu na Vinohradech]]></title>
-            <link>https://www.archiweb.cz/b/interier-bytu-na-vinohradech</link>
-            <guid>https://www.archiweb.cz/b/interier-bytu-na-vinohradech</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> 0,5 Studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9985_4.jpg-285x240.jpg?20261016111206" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9985_4.jpg-285x240.jpg?20261016111206" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Richard Wagner Museum]]></title>
-            <link>https://www.archiweb.cz/b/richard-wagner-museum</link>
-            <guid>https://www.archiweb.cz/b/richard-wagner-museum</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Staab Architekten</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9984.jpg-285x240.jpg?20261015122425" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9984.jpg-285x240.jpg?20261015122425" medium="image" />
         </item>
 </channel>
 </rss>
