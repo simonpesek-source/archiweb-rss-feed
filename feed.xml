@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 02 Nov 2026 18:08:35 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 16:02:20 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Moderní rezidence pod krovem měšťanského domu]]></title>
+            <link>https://www.archiweb.cz/b/moderni-rezidence-pod-krovem-mestanskeho-domu</link>
+            <guid>https://www.archiweb.cz/b/moderni-rezidence-pod-krovem-mestanskeho-domu</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> studio arkhe</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10003.jpg-285x240.jpg?20261103074941" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10003.jpg-285x240.jpg?20261103074941" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Rekonstrukce bytového domu Tišnovská 86]]></title>
+            <link>https://www.archiweb.cz/b/rekonstrukce-bytoveho-domu-tisnovska-86</link>
+            <guid>https://www.archiweb.cz/b/rekonstrukce-bytoveho-domu-tisnovska-86</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> studio AEIOU</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9972.jpg-285x240.jpg?20261102191611" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9972.jpg-285x240.jpg?20261102191611" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Penthouse Savanna]]></title>
             <link>https://www.archiweb.cz/b/penthouse-savanna</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Acronym collective studio</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9980.jpg-285x240.jpg?20261019135343" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9980.jpg-285x240.jpg?20261019135343" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Spiegelbaude am See]]></title>
-            <link>https://www.archiweb.cz/b/spiegelbaude</link>
-            <guid>https://www.archiweb.cz/b/spiegelbaude</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> A1Architects</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_8930.jpg-285x240.jpg?20261017105142" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_8930.jpg-285x240.jpg?20261017105142" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Přístavní dům]]></title>
-            <link>https://www.archiweb.cz/b/pristavni-dum-przysta-w-bia-ym-borze</link>
-            <guid>https://www.archiweb.cz/b/pristavni-dum-przysta-w-bia-ym-borze</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> KWK PROMES</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9987.jpg-285x240.jpg?20261016101327" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9987.jpg-285x240.jpg?20261016101327" medium="image" />
         </item>
 </channel>
 </rss>
