@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Fri, 06 Nov 2026 15:50:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 14:50:01 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Corso Harrachov]]></title>
+            <link>https://www.archiweb.cz/b/corso-harrachov</link>
+            <guid>https://www.archiweb.cz/b/corso-harrachov</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> minio</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10012.jpg-285x240.jpg?20261107091821" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10012.jpg-285x240.jpg?20261107091821" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Dom smútku]]></title>
+            <link>https://www.archiweb.cz/b/dom-smutku-dom-nadeje-v-slovenskej-vsi</link>
+            <guid>https://www.archiweb.cz/b/dom-smutku-dom-nadeje-v-slovenskej-vsi</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> STOA architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10011.jpg-285x240.jpg?20261107092408" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10011.jpg-285x240.jpg?20261107092408" medium="image" />
+        </item>
         <item>
             <title><![CDATA[CCC Galerie]]></title>
             <link>https://www.archiweb.cz/b/ccc-galerie</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Max Dudler</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9997.jpg-285x240.jpg?20261027080521" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9997.jpg-285x240.jpg?20261027080521" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Hvězda v Beskydech]]></title>
-            <link>https://www.archiweb.cz/b/hvezda-v-beskydech-rodinny-dum-v-celadne</link>
-            <guid>https://www.archiweb.cz/b/hvezda-v-beskydech-rodinny-dum-v-celadne</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> LABOR13</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9996.jpg-285x240.jpg?20261026113826" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9996.jpg-285x240.jpg?20261026113826" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Dětská skupina v České Kamenici]]></title>
-            <link>https://www.archiweb.cz/b/detska-skupina-v-ceske-kamenici</link>
-            <guid>https://www.archiweb.cz/b/detska-skupina-v-ceske-kamenici</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Jan Mach, Anna Laubová, Marcela Bezděková</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9965.jpg-285x240.jpg?20261026163238" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9965.jpg-285x240.jpg?20261026163238" medium="image" />
         </item>
 </channel>
 </rss>
