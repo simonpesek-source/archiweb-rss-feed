@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Sat, 07 Nov 2026 14:50:01 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 14:57:41 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Nová budova Magistrátu města Brna]]></title>
+            <link>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-1-cena</link>
+            <guid>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-1-cena</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Tempo architekti s.r.o.</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10017.jpg-285x240.jpg?20261108121329" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10017.jpg-285x240.jpg?20261108121329" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Corso Harrachov]]></title>
             <link>https://www.archiweb.cz/b/corso-harrachov</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> martin cenek architecture</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9998_5.jpg-285x240.jpg?20261028110718" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_9998_5.jpg-285x240.jpg?20261028110718" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Hlavní pošta, Norimberk]]></title>
-            <link>https://www.archiweb.cz/b/hlavni-posta-norimberk-hauptpost-n-rnberg</link>
-            <guid>https://www.archiweb.cz/b/hlavni-posta-norimberk-hauptpost-n-rnberg</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Max Dudler</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9997.jpg-285x240.jpg?20261027080521" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9997.jpg-285x240.jpg?20261027080521" medium="image" />
         </item>
 </channel>
 </rss>
