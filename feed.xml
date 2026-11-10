@@ -4,23 +4,39 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 09 Nov 2026 18:38:33 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 16:20:41 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Knoflík VAVI]]></title>
+            <link>https://www.archiweb.cz/b/knoflik-vavi</link>
+            <guid>https://www.archiweb.cz/b/knoflik-vavi</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> mjölk architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10020.jpg-285x240.jpg?20261110150614" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10020.jpg-285x240.jpg?20261110150614" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Byt v Bubenči]]></title>
+            <link>https://www.archiweb.cz/b/byt-v-bubenci</link>
+            <guid>https://www.archiweb.cz/b/byt-v-bubenci</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Mooza Architecture</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10013_1.jpg-285x240.jpg?20261110075422" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10013_1.jpg-285x240.jpg?20261110075422" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Rekonštrukcia domu Štvorec]]></title>
             <link>https://www.archiweb.cz/b/rekonstrukcia-domu-stvorec</link>
             <guid>https://www.archiweb.cz/b/rekonstrukcia-domu-stvorec</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> KCA studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10019.jpg-285x240.jpg?20261109142222" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10019.jpg-285x240.jpg?20261109142222" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10019.jpg-285x240.jpg?20261110093407" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10019.jpg-285x240.jpg?20261110093407" medium="image" />
         </item>
         <item>
             <title><![CDATA[Rodinný dům na předměstí Brna]]></title>
             <link>https://www.archiweb.cz/b/rdv</link>
             <guid>https://www.archiweb.cz/b/rdv</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> štukheil šobich architekti s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10008.jpg-285x240.jpg?20261109172845" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10008.jpg-285x240.jpg?20261109172845" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10008.jpg-285x240.jpg?20261110134354" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10008.jpg-285x240.jpg?20261110134354" medium="image" />
         </item>
         <item>
             <title><![CDATA[Corso Harrachov]]></title>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> studio AEIOU</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9972.jpg-285x240.jpg?20261102191611" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9972.jpg-285x240.jpg?20261102191611" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Penthouse Savanna]]></title>
-            <link>https://www.archiweb.cz/b/penthouse-savanna</link>
-            <guid>https://www.archiweb.cz/b/penthouse-savanna</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> under-construction architects</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10002.jpg-285x240.jpg?20261101112549" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10002.jpg-285x240.jpg?20261101112549" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Serpentine Gallery Pavilion 2026]]></title>
-            <link>https://www.archiweb.cz/b/serpentine-gallery-pavilion-2026</link>
-            <guid>https://www.archiweb.cz/b/serpentine-gallery-pavilion-2026</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> LANZA atelier</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10001.jpg-285x240.jpg?20261101100105" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10001.jpg-285x240.jpg?20261101100105" medium="image" />
         </item>
 </channel>
 </rss>
