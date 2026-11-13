@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Thu, 12 Nov 2026 16:43:54 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 16:04:17 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Kostel Českobratrské církve evangelické v Boskovicích]]></title>
+            <link>https://www.archiweb.cz/b/kostel-ceskobratrske-cirkve-evangelicke-v-boskovicich</link>
+            <guid>https://www.archiweb.cz/b/kostel-ceskobratrske-cirkve-evangelicke-v-boskovicich</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Karel Fabiánek</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10024.jpg-285x240.jpg?20261113140744" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10024.jpg-285x240.jpg?20261113140744" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Rezidence Rostislavovo náměstí]]></title>
+            <link>https://www.archiweb.cz/b/rezidence-rostislavovo-namesti</link>
+            <guid>https://www.archiweb.cz/b/rezidence-rostislavovo-namesti</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Vajka studio</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10022.jpg-285x240.jpg?20261113103103" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10022.jpg-285x240.jpg?20261113103103" medium="image" />
+        </item>
         <item>
             <title><![CDATA[RD Staré Hamry]]></title>
             <link>https://www.archiweb.cz/b/rd-stare-hamry</link>
@@ -27,8 +43,8 @@
             <link>https://www.archiweb.cz/b/financni-urad-veseli-nad-moravou</link>
             <guid>https://www.archiweb.cz/b/financni-urad-veseli-nad-moravou</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> EA architekti s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10007.jpg-285x240.jpg?20261111090628" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10007.jpg-285x240.jpg?20261111090628" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10007.jpg-285x240.jpg?20261112191300" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10007.jpg-285x240.jpg?20261112191300" medium="image" />
         </item>
         <item>
             <title><![CDATA[Knoflík VAVI]]></title>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ti2 architekti</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10005_6.jpg-285x240.jpg?20261108204705" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10005_6.jpg-285x240.jpg?20261108204705" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Nová budova Magistrátu města Brna]]></title>
-            <link>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-1-cena</link>
-            <guid>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-1-cena</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Tempo architekti s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10017.jpg-285x240.jpg?20261108204705" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10017.jpg-285x240.jpg?20261108204705" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[RD Vysoké Mýto]]></title>
-            <link>https://www.archiweb.cz/b/rd-vysoke-myto</link>
-            <guid>https://www.archiweb.cz/b/rd-vysoke-myto</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> LBNK architekti</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9995.jpg-285x240.jpg?20261104041155" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_9995.jpg-285x240.jpg?20261104041155" medium="image" />
         </item>
 </channel>
 </rss>
