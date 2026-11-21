@@ -4,8 +4,24 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Fri, 20 Nov 2026 16:53:19 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 16:02:01 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[2PEAKS]]></title>
+            <link>https://www.archiweb.cz/b/2peaks-horsky-apartmanovy-dvojdum</link>
+            <guid>https://www.archiweb.cz/b/2peaks-horsky-apartmanovy-dvojdum</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> BekArch</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10033_2.jpg-285x240.jpg?20261121151605" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10033_2.jpg-285x240.jpg?20261121151605" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Nová budova Magistrátu města Brna]]></title>
+            <link>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-neoceneny-projekt</link>
+            <guid>https://www.archiweb.cz/b/nova-budova-magistratu-mesta-brna-neoceneny-projekt</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> atelier gram</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10031.jpg-285x240.jpg?20261121121153" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10031.jpg-285x240.jpg?20261121121153" medium="image" />
+        </item>
         <item>
             <title><![CDATA[KOI]]></title>
             <link>https://www.archiweb.cz/b/koi</link>
@@ -109,22 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Mooza Architecture</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10013_1.jpg-285x240.jpg?20261110075422" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10013_1.jpg-285x240.jpg?20261110075422" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rekonštrukcia domu Štvorec]]></title>
-            <link>https://www.archiweb.cz/b/rekonstrukcia-domu-stvorec</link>
-            <guid>https://www.archiweb.cz/b/rekonstrukcia-domu-stvorec</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> KCA studio</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10019.jpg-285x240.jpg?20261110093407" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10019.jpg-285x240.jpg?20261110093407" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Rodinný dům na předměstí Brna]]></title>
-            <link>https://www.archiweb.cz/b/rdv</link>
-            <guid>https://www.archiweb.cz/b/rdv</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> štukheil šobich architekti s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10008.jpg-285x240.jpg?20261110134354" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10008.jpg-285x240.jpg?20261110134354" medium="image" />
         </item>
 </channel>
 </rss>
