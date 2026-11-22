@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Sat, 21 Nov 2026 16:02:01 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:09:09 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Život za zdmi]]></title>
+            <link>https://www.archiweb.cz/b/zivot-za-zdmi</link>
+            <guid>https://www.archiweb.cz/b/zivot-za-zdmi</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> B² architecture</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10034_1.jpg-285x240.jpg?20261122152447" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10034_1.jpg-285x240.jpg?20261122152447" medium="image" />
+        </item>
         <item>
             <title><![CDATA[2PEAKS]]></title>
             <link>https://www.archiweb.cz/b/2peaks-horsky-apartmanovy-dvojdum</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> mjölk architekti</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10020.jpg-285x240.jpg?20261110150614" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10020.jpg-285x240.jpg?20261110150614" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Byt v Bubenči]]></title>
-            <link>https://www.archiweb.cz/b/byt-v-bubenci</link>
-            <guid>https://www.archiweb.cz/b/byt-v-bubenci</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Mooza Architecture</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10013_1.jpg-285x240.jpg?20261110075422" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10013_1.jpg-285x240.jpg?20261110075422" medium="image" />
         </item>
 </channel>
 </rss>
