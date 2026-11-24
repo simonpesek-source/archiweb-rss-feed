@@ -4,15 +4,23 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Mon, 23 Nov 2026 20:02:01 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 19:27:34 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[22.SVRATOUCH]]></title>
+            <link>https://www.archiweb.cz/b/22-svratouch-prestavba-chaty-na-vysocine</link>
+            <guid>https://www.archiweb.cz/b/22-svratouch-prestavba-chaty-na-vysocine</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Ateliér Kopecký</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10032.jpg-285x240.jpg?20261124103149" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10032.jpg-285x240.jpg?20261124103149" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Turistické informační centrum Příbor]]></title>
             <link>https://www.archiweb.cz/b/turisticke-informacni-centrum-pribor</link>
             <guid>https://www.archiweb.cz/b/turisticke-informacni-centrum-pribor</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Architecture Acts</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10035.jpg-285x240.jpg?20261123152706" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10035.jpg-285x240.jpg?20261123152706" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10035.jpg-285x240.jpg?20261124103736" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10035.jpg-285x240.jpg?20261124103736" medium="image" />
         </item>
         <item>
             <title><![CDATA[Život za zdmi]]></title>
@@ -27,8 +35,8 @@
             <link>https://www.archiweb.cz/b/2peaks-horsky-apartmanovy-dvojdum</link>
             <guid>https://www.archiweb.cz/b/2peaks-horsky-apartmanovy-dvojdum</guid>
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> BekArch</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10033_2.jpg-285x240.jpg?20261121151605" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/gallery/picture_10033_2.jpg-285x240.jpg?20261121151605" medium="image" />
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10033.jpg-285x240.jpg?20261124102101" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10033.jpg-285x240.jpg?20261124102101" medium="image" />
         </item>
         <item>
             <title><![CDATA[Nová budova Magistrátu města Brna]]></title>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Michal Sborwitz, Marie Sborwitzová, Karel Prášil</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10014.jpg-285x240.jpg?20261112130731" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10014.jpg-285x240.jpg?20261112130731" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Finanční úřad ve Veselí nad Moravou]]></title>
-            <link>https://www.archiweb.cz/b/financni-urad-veseli-nad-moravou</link>
-            <guid>https://www.archiweb.cz/b/financni-urad-veseli-nad-moravou</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> EA architekti s.r.o.</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10007.jpg-285x240.jpg?20261112191300" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10007.jpg-285x240.jpg?20261112191300" medium="image" />
         </item>
 </channel>
 </rss>
