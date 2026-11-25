@@ -4,8 +4,16 @@
   <title>Archiweb - Projekty</title>
   <link>https://www.archiweb.cz/p</link>
   <description>Nejnovější architektonické projekty z Archiweb.cz</description>
-  <lastBuildDate>Tue, 24 Nov 2026 19:27:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 18:35:10 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Nová Vajnorská]]></title>
+            <link>https://www.archiweb.cz/b/nova-vajnorska</link>
+            <guid>https://www.archiweb.cz/b/nova-vajnorska</guid>
+            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Compass Architekti</p>]]></description>
+            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10037.jpg-285x240.jpg?20261125111710" type="image/jpeg" length="1024" />
+            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10037.jpg-285x240.jpg?20261125111710" medium="image" />
+        </item>
         <item>
             <title><![CDATA[22.SVRATOUCH]]></title>
             <link>https://www.archiweb.cz/b/22-svratouch-prestavba-chaty-na-vysocine</link>
@@ -117,14 +125,6 @@
             <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> ATELIER 38 s.r.o.</p>]]></description>
             <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10021.jpg-285x240.jpg?20261111234728" type="image/jpeg" length="1024" />
             <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10021.jpg-285x240.jpg?20261111234728" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Městská knihovna ve Velké Bystřici]]></title>
-            <link>https://www.archiweb.cz/b/mestska-knihovna-ve-velke-bystrici</link>
-            <guid>https://www.archiweb.cz/b/mestska-knihovna-ve-velke-bystrici</guid>
-            <description><![CDATA[<p><strong>Architekti / Ateliér:</strong> Michal Sborwitz, Marie Sborwitzová, Karel Prášil</p>]]></description>
-            <enclosure url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10014.jpg-285x240.jpg?20261112130731" type="image/jpeg" length="1024" />
-            <media:content url="https://cdn.archmedia.eu/cache/images/buildings/mainlogo_10014.jpg-285x240.jpg?20261112130731" medium="image" />
         </item>
 </channel>
 </rss>
